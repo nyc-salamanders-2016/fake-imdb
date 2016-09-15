@@ -1,0 +1,2 @@
+class Imdb < ApplicationRecord
+end
